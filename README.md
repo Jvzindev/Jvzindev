@@ -2,14 +2,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jvzindev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jvzindev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3>💻 Sobre:</h3>
+
+<p>Sou desenvolvedor front end desde 2023, comecei a estudar algumas tecnlogia como por exemplo: HTML5, CSS5, JAVASCRIPT e REACT. Com isso estou resolvendo diversos tipos de problemas. Estou cursando um curso completo de front-end da Udemy. Desde meus 15 anos fui apaixonado pela programação, minha primeira linguagem que entrei em contato foi o .lua. Aqui no meu github quero compartilhar com vocês meus projetos que venho praticando. Sou um estudante apaixonado pela area de front-end, já partipei de alguns projetos pequenos para desenvolver minha habilidade de comunicação.</p>
 
 ###
-
-<h3>💻 Techs:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -20,13 +17,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
-
-###
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31klaazoutbup5k3sac63ej6dt3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-###
-<h2 align="left">Meu Portfólio:</h2>
-<p><a href="#" target="_blank">- Portfólio Não Finalizado!</a></p>
 
 ###
 
@@ -41,8 +31,6 @@
 
 ###
 
-<br clear="both">
-
-![snake gif](https://github.com/Jvzindev/Jvzindev/blob/output/github-contribution-grid-snake.svg)
+[example with cron job](https://github.com/Jvzindev/Jvzin/blob/master/.github/workflows/main.yml#L26-L33)
 
 ###
