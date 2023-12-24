@@ -30,7 +30,3 @@
 </div>
 
 ###
-
-[example with cron job](https://github.com/Jvzindev/Jvzin/blob/master/.github/workflows/main.yml#L26-L33)
-
-###
