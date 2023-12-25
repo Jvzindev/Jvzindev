@@ -20,6 +20,7 @@
 </div>
 
 ###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvzindev&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvzindev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -31,5 +32,4 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
 ###
