@@ -7,7 +7,8 @@
 <p>Sou desenvolvedor front end desde 2023, comecei a estudar algumas tecnlogia como por exemplo: HTML5, CSS5, JAVASCRIPT e REACT. Com isso estou resolvendo diversos tipos de problemas. Estou cursando um curso completo de front-end da Udemy. Desde meus 15 anos fui apaixonado pela programação, minha primeira linguagem que entrei em contato foi o .lua. Aqui no meu github quero compartilhar com vocês meus projetos que venho praticando. Sou um estudante apaixonado pela area de front-end, já partipei de alguns projetos pequenos para desenvolver minha habilidade de comunicação.</p>
 
 ###
-
+<h2>Melhores Tecnologias <3</h2>
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
