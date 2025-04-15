@@ -4,7 +4,7 @@
 
 <h3>💻 Sobre:</h3>
 
-<p>Sou desenvolvedor front end desde 2023, comecei a estudar algumas tecnlogia como por exemplo: HTML5, CSS5, JAVASCRIPT e REACT. Com isso estou resolvendo diversos tipos de problemas. Estou cursando um curso completo de front-end da Udemy. Desde meus 15 anos fui apaixonado pela programação, minha primeira linguagem que entrei em contato foi o .lua. Aqui no meu github quero compartilhar com vocês meus projetos que venho praticando. Sou um estudante apaixonado pela area de front-end, já partipei de alguns projetos pequenos para desenvolver minha habilidade de comunicação.</p>
+<p>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica, com previsão de conclusão em 2027. Tenho como foco o Desenvolvimento Back-End, especialmente com Java, e estou constantemente buscando aprimorar minhas habilidades técnicas e práticas.</p>
 
 ###
 <h2>Melhores Tecnologias <3</h2>
