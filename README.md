@@ -4,7 +4,7 @@
 
 <h3>💻 Sobre:</h3>
 
-<p>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica, com previsão de conclusão em 2027. Tenho como foco o Desenvolvimento Back-End, especialmente com Java, e estou constantemente buscando aprimorar minhas habilidades técnicas e práticas.</p>
+<p>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica, com previsão de conclusão em 2027. Tenho como foco o Desenvolvimento Back-End, especialmente com JavaScript, Nodejs, e estou constantemente buscando aprimorar minhas habilidades técnicas e práticas.</p>
 
 ###
 <h2>Melhores Tecnologias <3</h2>
